@@ -3,6 +3,6 @@
 <body>
    <h1> this is the register page  </h1>
    
-   this is use the project
+   this is use the project register
 </body>
 </html>
